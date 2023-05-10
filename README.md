@@ -8,7 +8,7 @@ Tracks Ether and Token transfers for given wallets and amount. [Read more on Med
 ## Setup
 
 ```
-git clone git@github.com:dsemenovsky/blockchain-tracker-example.git
+git clone git@github.com:cooldev900/blockchain-tracker-example.git
 cd blockchain-tracker-example
 yarn install
 ```
